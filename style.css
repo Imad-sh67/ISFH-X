@@ -1,0 +1,26 @@
+
+h1{background:black; text-align:center;  color:red; font-family:Oswald; padding: 50px;}
+
+
+p{ 
+    font-family: oswald; text-align:center;}
+
+img{ margin-left: 450px; }
+img{ column-rule-width: 18px; }
+button{ margin: 20px; background:black; color:red; }
+nav{ text-align: center; background: black;
+
+	   color: white; padding:35px; text-decoration:none;
+
+}
+
+
+div{ background: black; color: red;}
+	ul{ list-style: none;}
+li{ display: inline;  margin-right: 20px;}
+ a:hover{  color:white; }
+ a{ text-decoration: none; color: red; margin:50px;}
+
+ footer{ background:black; color:red; padding:20px; text-align:right; }
+body{ background: black; }
+hr{ color: transparent; }
